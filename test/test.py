@@ -1,6 +1,5 @@
 from src.main import *
 from unittest.mock import patch
-from src.main import *
 
 import pytest
 import pytest_asyncio
