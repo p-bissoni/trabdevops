@@ -1,6 +1,6 @@
 from src.main import *
 from unittest.mock import patch
-
+from src.main import *
 
 def test_root():
     result = root()
